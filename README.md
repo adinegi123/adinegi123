@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**adinegi123/adinegi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is what iam Working on 👋
 
 Here are some ideas to get you started:
 
