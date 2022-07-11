@@ -1,7 +1,4 @@
 ### Here is what iam Working on 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a flutter Intern.
 - 🎓 B.Tech in Computer Science(2019 graduate) from COLLEGE OF ENGINEERING ROORKEE.
 - 🌱 I’m currently learning firebase and working on my problem solving skills...
