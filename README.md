@@ -5,3 +5,5 @@
 - 👨‍💻 all of my projects are available at https://github.com/adinegi123
 - ✨ Interests : working and creating beautiful UIs,watching anime and listening music.
 - 🔗 Connect with me : mail: adtnegi123@gmail.com
+- 🎯 Focused. Versatile. Curious.
+- 🚀 producing Apps that pop. Code that counts.
