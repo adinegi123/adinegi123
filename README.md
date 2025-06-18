@@ -1,54 +1,43 @@
-<!-- 🧑‍💻 Hero Image -->
+<!-- ✨ Typing animation using SVG (works on GitHub README) -->
 <p align="center">
-  <img src="https://i.imgur.com/a2s8XWa.png" width="220" alt="Girl Coder Illustration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adi+%F0%9F%91%8B;Junior+Flutter+Developer;Anime+Lover+%7C+UI+Crafter+%7C+Code+Dreamer" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there, I'm Adi 👋</h1>
-
-<hr />
-
-### 👩‍💻 About Me
-- 🚀 Junior **Flutter Developer** with a passion for mobile experiences  
-- 🎓 B.Tech in Computer Science from **College of Engineering Roorkee**  
-- 📲 Currently deploying apps to the **Play Store**  
-- 🧠 Improving **problem-solving** & exploring **system design**  
-- 🎨 Love building **beautiful UI** and smooth, modern interfaces
+### 👨‍💻 About Me
+- 🚀 I’m currently working as a **Junior Flutter Developer**
+- 🎓 B.Tech in Computer Science from **College of Engineering Roorkee**
+- 🌱 Actively working on deploying apps to the **Play Store**
+- 🧠 Improving my **problem-solving** and **system design** skills
+- 🛠️ Love working with beautiful **UI designs** and smooth user experiences
 
 ---
 
 ### 💼 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-5AC8FA?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFE873?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### ✨ Interests
-- 🎨 Designing pixel-perfect, responsive Flutter UIs  
-- 📱 Crafting mobile apps that feel fast, fluid & friendly  
-- 🎧 Enjoying music, watching anime, and discovering new tech trends  
+- 🎨 Crafting beautiful & responsive **UIs**
+- 📱 Building mobile apps that are fast, intuitive, and useful
+- 🎧 Listening to music, watching anime, and exploring new tech
 
 ---
 
 ### 📫 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
 
-<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue-dark&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
 </p>
 
