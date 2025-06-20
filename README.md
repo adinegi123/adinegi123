@@ -4,7 +4,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🚀 I’m currently working as a **Junior Flutter Developer**
+- 🚀 I’m currently working as a ** Flutter Developer**
 - 🎓 B.Tech in Computer Science from **College of Engineering Roorkee**
 - 🌱 Actively working on deploying apps to the **Play Store**
 - 🧠 Improving my **problem-solving** and **system design** skills
